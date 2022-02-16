@@ -5,7 +5,7 @@
 
 title: TextSLAM
 description: Leverage texts to read our world !
-is_project_page: false
+github.is_project_page: false
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
