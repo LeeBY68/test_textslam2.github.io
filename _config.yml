@@ -1,11 +1,5 @@
-# theme: jekyll-theme-cayman
-# title: welcome to the TextSLAM's homepage!
-# show_downloads: true
-# google_analytics: test
-
 title: TextSLAM
 description: Leverage texts to read our world !
-# github.is_project_page: false
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
