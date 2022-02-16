@@ -1,4 +1,10 @@
-theme: jekyll-theme-cayman
-title: welcome to the TextSLAM's homepage!
+# theme: jekyll-theme-cayman
+# title: welcome to the TextSLAM's homepage!
+# show_downloads: true
+# google_analytics: test
+
+title: TextSLAM
+description: Leverage texts to read our world!
 show_downloads: true
-google_analytics: test
+google_analytics:
+theme: jekyll-theme-cayman
