@@ -4,7 +4,7 @@
 # google_analytics: test
 
 title: TextSLAM
-description: Leverage texts to read our world!
+description: Leverage texts to read our world !
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
