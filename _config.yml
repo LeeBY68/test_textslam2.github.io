@@ -9,5 +9,5 @@ description: Leverage texts to read our world !
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-# github:
-#   is_project_page: false
+github:
+  is_project_page: false
