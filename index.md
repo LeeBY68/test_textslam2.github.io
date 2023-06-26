@@ -1,13 +1,11 @@
-<img src="./pic/Image_TextSLAM_dataset.png"  width ="10" align = "center" /> ## TextSLAM
-<div align=center >
-  <!--[PAPER (ICRA2020)](https://ieeexplore.ieee.org/abstract/document/9197233/) &emsp; 是否可以增加paper list--> 
-  <a href=https://arxiv.org/abs/2305.10029>PAPER</a> &emsp;
-  <a href=https://github.com/SJTU-ViSYS/TextSLAM>CODE</a> &emsp;
-  <a href=https://github.com/SJTU-ViSYS/TextSLAM>DATASET</a> &emsp;
-  <a href=https://github.com/SJTU-ViSYS/TextSLAM>EVALUATION</a> 
+<!--![TextSLAM: Visual SLAM with Semantic Planar Text Features](./pic/logo.png "Magic Gardens")--> 
+
+## TextSLAM
+
+<div align=center>
+  <img src="./pic/logo.png"  width ="50"/> <b> TextSLAM: Visual SLAM with Semantic Planar Text Features</b>
 </div>
 
-  
 <div align=center>
   <b>Authors:</b> &emsp;
   <a href=https://leeby68.github.io/>Boying Li</a> &emsp;
@@ -18,7 +16,17 @@
   <a href=https://www.researchgate.net/profile/Wenxian-Yu>Wenxian Yu</a>
 </div>
 
-<--! 总图或总gif -->
+
+<!--![Overview of TextSLAM dataset](./pic/Image_TextSLAM_dataset.png "Overview of TextSLAM dataset")--> 
+<!--![Overview of TextSLAM](./pic/Image_TextSLAM.png "Overview of TextSLAM")--> 
+
+<div align=center >
+  <!--[PAPER (ICRA2020)](https://ieeexplore.ieee.org/abstract/document/9197233/) &emsp; 是否可以增加paper list--> 
+  <a href=https://arxiv.org/abs/2305.10029>PAPER</a> &emsp;
+  <a href=https://github.com/SJTU-ViSYS/TextSLAM>CODE</a> &emsp;
+  <a href=https://github.com/SJTU-ViSYS/TextSLAM>DATASET</a> &emsp;
+  <a href=https://github.com/SJTU-ViSYS/TextSLAM>EVALUATION</a> 
+</div>
 
 ### Motivation
 
@@ -28,9 +36,11 @@
 
 :star: TextSLAM explores scene texts as the basic feature both geometrically and semantically. It achieves superior performance even under challenging environments, such as image blurring, large viewpoint changes, and significant illumination variations (day and night).
 
-### Abstract
+<div align=center>
+  <img src="./pic/Image_TextSLAM.png"  width ="800"/>
+</div>
 
-<--! 总图 -->
+### Abstract
 
 We propose a novel visual SLAM method that integrates text objects tightly by treating them as semantic features via fully exploring their geometric and semantic prior. The text object is modeled as a texture-rich planar patch whose semantic meaning is extracted and updated on the fly for better data association. With the full exploration of locally planar characteristics and semantic meaning of text objects, the SLAM system becomes more accurate and robust even under challenging conditions such as image blurring, large viewpoint changes,  and significant illumination variations (day and night). We tested our method in various scenes with the ground truth data. The results show that integrating texture features leads to a more superior SLAM system that can match images across day and night. The reconstructed semantic 3D text map could be useful for navigation and scene understanding in robotic and mixed reality applications.
 
